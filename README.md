@@ -1,4 +1,5 @@
 # Oil & Gas Technical Assistant
+[screen-capture.webm](https://github.com/user-attachments/assets/08bb7c62-ac96-4c68-9c73-2d7779d9fa7b)
 
 A RAG-based chatbot that lets oil and gas professionals upload PDF manuals, maintenance
 reports, and safety guidelines, then ask natural-language questions. Answers are grounded
